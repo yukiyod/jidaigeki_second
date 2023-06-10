@@ -1,0 +1,282 @@
+!!!!SEGMENT:Sankou.krn
+!!!OTL:山行
+!!!OPR:Eiga Banso Kyokusyu,jidai-geki,kouhen
+!!!YOY:1928
+!!!ONB:Dairantou
+**kern
+*clefG2
+*k[f#c#]
+*D:
+*M2/4
+=1
+8c#L 8e
+8c#J 8e
+8c#L 8e
+16cc#L
+16cc#JJ
+=2
+16c#LL
+16ee
+16ee
+16eeJJ
+16eeLL
+16eeJJ
+8r
+=3
+16ff#LL
+16ff#
+16ff#
+16ff#JJ
+16ff#LL
+16ff#
+16B
+16eJJ
+=4
+16f#LL
+16f#
+16B
+16eJJ
+16f#LL
+16f#JJ
+8r
+=5
+16ff#LL
+16ff#
+16ff#
+16ff#JJ
+8ff#L
+16BL
+16eJJ
+=6:|
+16f#LL
+16f#
+16B
+16eJJ
+16f#LL
+16f#JJ
+8r
+=7
+16ddLL
+16cc#
+16cc#
+16bJJ
+8gL
+8f#J
+=8
+16ddLL
+16cc#
+16cc#
+16bJJ
+8gL
+8f#J
+=9
+16ddLL
+16cc#
+16cc#
+16bJJ
+16ddLL
+16cc#
+16cc#
+16bJJ
+=10
+16ddLL
+16cc#
+16cc#
+16bJJ
+16ddLL
+16cc#
+16cc#
+16bJJ
+=11
+16BLL
+16b
+16B
+16bJJ
+16BLL
+16b
+16B
+16bJJ
+=12
+16bLL
+16b
+16b
+16bJJ
+8bL
+8bJ
+=13
+16BLL
+16b
+16B
+16bJJ
+16BLL
+16b
+16B
+16bJJ
+=14
+16bLL
+16b
+16b
+16bJJ
+8bL
+8bJ
+=15
+8c#L 8e
+8c#J 8e
+8c#L 8e
+16cc#L
+16cc#JJ
+=16
+16c#LL
+16ee
+16ee
+16eeJJ
+16eeLL
+16eeJJ
+8r
+=17
+8f#L
+8ff#J
+8ff#L
+16ff#L
+16ff#JJ
+=18
+16ff#LL
+16aa
+16aa
+16aaJJ
+16aaLL
+16aaJJ
+8r
+=19
+16bLL
+16bb
+16bb
+16bbJJ
+16bbLL
+16bb
+16bb
+16bbJJ
+=20
+16bLL
+16bb
+16bb
+16bbJJ
+16bbLL
+16bbJJ
+8r
+=21
+16bLL
+16bb
+16bb
+16bbJJ
+16bbLL
+16bb
+16bb
+16bbJJ
+=22
+16bLL
+16bb
+16bb
+16bbJJ
+16bbLL
+16bbJJ
+8r
+=23
+*^
+8bbL	16rggg
+.	16bbKL
+8gg	16rddd
+.	16ggk
+8gg	16reee
+.	16ggk
+8ff#J	16rccc
+.	16ff#Jk
+*v	*v
+=24
+16eeLL
+16ee
+16ff#
+16eeJJ
+8ccn
+8r
+=25
+16ff#LL
+16eeJ
+8ccnJ
+16ff#LL
+16eeJ
+8ccJ
+=26
+16ccnLL
+16ee
+16ee
+16eeJJ
+16ff#LL
+16ff#JJ
+8r
+=27
+*^
+16raa	8g
+16ggLL	.
+16gg	8rc
+16ggJJ	.
+16raa	8f#
+16ff#LL	.
+16ff#	8rc
+16ff#JJ	.
+=28	=28
+16raa	8cn
+16ccnLL	.
+16cc	8rc
+16ccJJ	.
+16raa	8B
+16bLL	.
+16b	8rc
+16bJJ	.
+=29	=29
+8ggL	16rddd
+.	16ggKL
+8ff#J	16rccc
+.	16ff#Jk
+8cc#L	16rccc
+.	16cc#KL
+8bJ	16rff
+.	16bJk
+=30	=30
+8ggL	16rddd
+.	16ggKL
+8ff#J	16rccc
+.	16ff#Jk
+8cc#L	16rccc
+.	16cc#KL
+8bJ	16rff
+.	16bJk
+*v	*v
+=31
+16BLL
+16a
+16a
+16aJJ
+16bLL
+16bJJ
+8r
+=32
+16aLL
+16a
+16b
+16aJJ
+16bLL
+16a
+16fn
+16fJJ
+=33
+16fnLL
+16e
+16e
+16cnJJ
+8B
+8r
+==
+*-
+!!!ENC: Yukiko Yoden
+!!!END: 2023/06/10

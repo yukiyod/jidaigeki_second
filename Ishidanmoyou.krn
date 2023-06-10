@@ -1,0 +1,158 @@
+!!!!SEGMENT:Ishidanmoyou.krn
+!!!OTL:石段模様
+!!!OPR:Eiga Banso Kyokusyu,jidai-geki,kouhen
+!!!YOY:1928
+!!!ONB:Dairantou
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+4b
+8aaL
+8aaJ
+=2
+8bbL
+8aaJ
+8ff#L
+8aaJ
+=3
+8bbL
+16bbL
+16bbJJ
+8bbL
+8bbJ
+=4
+4bb
+4r
+=5
+8bL 8bb
+8bJ 8bb
+8aL 8aa
+8aJ 8aa
+=6
+8bL 8bb
+8ccJ 8ccc
+8eeL 8eee
+8ccJ 8ccc
+=7
+8ccL 8ccc
+8bJ 8bb
+8bL 8bb
+8aJ 8aa
+=8
+8bL 8bb
+8bJ 8bb
+4r
+=9
+8ccL 8ccc
+8ccJ 8ccc
+8cc 8ccc
+8r
+=10
+8bL 8bb
+8bJ 8bb
+8b 8bb
+8r
+=11
+8ggL
+8gg
+8ggJ
+8r
+=12
+8ff#L
+8ff#
+8ff#J
+8r
+=13
+*^
+8rb	4gg
+8gg	.
+8bbL	4ryy
+8ggJ	.
+*v	*v
+=14
+8bbL
+8ggJ
+4ff#
+=15
+8bbL
+8gg
+8ff#
+8ggJ
+=16
+8eeL
+8ee
+8ff#
+8ccJ
+=17
+8bL
+8aJ
+4r
+=18
+*^
+8rg	4cc
+8cc	.
+8ccL	4ryy
+8ccJ	.
+=19	=19
+8re	4b
+8b	.
+8bL	4ryy
+8bJ	.
+=20	=20
+8rc	4g
+8g	.
+8gL	4ryy
+8gJ	.
+=21	=21
+8rB	4f#
+8f#	.
+8f#L	4ryy
+8f#J	.
+=22	=22
+8rc	4g
+8g	.
+8gL	4ryy
+8gJ	.
+*v	*v
+=23
+8f#L
+8eJ
+4c
+=24
+8cL
+8eJ
+8f#L
+8eJ
+=25
+8cL
+8eJ
+8cL
+8BJ
+=26
+8r
+8ff#
+8eeL
+8ccJ
+=27
+8bL
+8aJ
+8bL
+8ddJ
+=28
+8bL
+8ffnJ
+16eeLL
+16ee
+16ee
+16ddJJ
+=29
+8bL
+8eeJ
+4r
+==
+*-
+!!!ENC: Yukiko Yoden
+!!!END: 2023/06/10
