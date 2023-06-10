@@ -1,0 +1,186 @@
+!!!!SEGMENT: Daisyoni.krn
+!!!OTL: 大小貳
+!!!OPR:Eiga Banso Kyokusyu,jidai-geki,kouhen
+!!!YOY:1928
+!!!ONB:Kakuto
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+8ggL
+16ggL
+16ggJJ
+8ff#L
+8eeJ
+=2
+8eeL
+16eeL
+16eeJJ
+8ff#
+8r
+=3
+8ggL
+8bb
+8bb
+8bbJ
+=4
+8ggL
+8ff#
+8ee
+8ccJ
+=5
+8eeL
+8ff#
+8ee
+8ccJ
+=6
+8eeL
+8cc
+8bJ
+8r
+=7
+8bL
+8bJ
+4b
+=8
+8f#L
+8f#J
+4f#
+=9
+8bL
+8bJ
+4b
+=10
+8f#L
+8f#J
+4f#
+=11
+8ddL
+8dd
+8dd
+8cc#XJ
+=12
+8bL
+8gJ
+8gL
+8f#J
+=13
+8eL
+8f#
+8e
+8cJ
+=14
+8eL
+8cJ
+8BL
+8dJ
+=15
+8eL
+8f#
+8a
+8bJ
+=16
+8aL
+8dJ
+8aaL
+8bbJ
+=17
+8bbL
+16bbL
+16bbJJ
+8bbL
+16bbL
+16bbJJ
+=18
+8bbL
+16bbL
+16bbJJ
+8bb
+8r
+=19
+8eeL 8eee
+8eeJ 8eee
+4ee 4eee
+=20
+8bL 8bb
+8bJ 8bb
+4b 4bb
+=21
+8eeL 8eee
+8eeJ 8eee
+4ee 4eee
+=22
+8bL 8bb
+8bJ 8bb
+4b 4bb
+=23
+8eeL 8eee
+8ccJ 8ccc
+8ccL 8ccc
+8bJ 8bb
+=24
+8a 8aa
+4ff#
+8ff#
+=25
+8aaL
+8bbJ
+8ff#L
+8aaJ
+=26
+8bbL
+8ff#J
+8r
+8ff#
+=27
+8aaL
+8bbJ
+8ff#L
+8aaJ
+=28
+8bbL
+8ff#J
+8eeL
+8ddJ
+=29
+8eeL
+8ff#J
+8aaL
+16bbL
+16bbJJ
+=30
+16bbLL
+16bbJ
+8ff#J
+8ff#
+8r
+=31
+8ggL
+16ggL
+16ggJJ
+8ff#L
+8eeJ
+=32
+16ff#LL
+16eeJ
+8ccJ
+8bL
+8eJ
+=33
+16ddLL
+16dd
+16ee
+16ddJJ
+16eeLL
+16ddJ
+8eeJ
+=34
+8ee
+8r
+4r
+==
+*-
+!!!ENC: Yukiko Yoden
+!!!END: 2023/06/10
