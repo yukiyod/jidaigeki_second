@@ -1,0 +1,48 @@
+!!!!SEGMENT:Saireimikoshi.krn
+!!!OTL: 祭禮御輿
+!!!OPR:Eiga Banso Kyokusyu,jidai-geki,kouhen
+!!!YOY:1928
+!!!ONB:Sairei
+**kern
+*clefG2
+*k[f#c#]
+*D:
+*M2/4
+=1
+4f#
+8ff#L
+8ff#J
+=2
+8cc#L
+8cc#J
+8bL
+8bJ
+=3
+8cc#L
+8cc#J
+8f#L
+8bJ
+=4
+4cc#
+4cc#
+=5
+4f#
+8ff#L
+8ff#J
+=6
+8cc#L
+8cc#J
+8bL
+8bJ
+=7
+8cc#L
+8cc#J
+8f#L
+8bJ
+=8
+4cc#
+4cc#
+==
+*-
+!!!ENC: Yukiko Yoden
+!!!END: 2023/06/11

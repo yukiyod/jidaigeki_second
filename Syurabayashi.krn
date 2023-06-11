@@ -1,0 +1,88 @@
+!!!!SEGMENT:Syurabayashi.krn
+!!!OTL: 修羅ばやし
+!!!OPR:Eiga Banso Kyokusyu,jidai-geki,kouhen
+!!!YOY:1928
+!!!ONB:Kakutou
+**kern
+*clefG2
+*k[]
+*C:
+*M2/4
+=1
+8r
+16bLL
+16aJJ
+8bL
+8ddJ
+=2
+8eeL
+16eeL
+16eeJJ
+4b
+=3
+16eeLL
+16eeJ
+8eeJ
+16ddLL
+16ddJ
+8ddJ
+=4
+8eeL
+16eeL
+16eeJJ
+8eeL
+8aaJ
+=5
+8bbL
+8aaJ
+4bb
+=6
+8aaL
+8bbJ
+8eL
+8ccJ 8ccc
+=7
+8ccL 8ccc
+8bJ 8bb
+8aL 8aa
+8bJ 8bb
+=8
+4ff
+8aaL
+8aaJ
+=9
+16bbLL
+16aaJ
+8ffJ
+16eeKL
+8ee
+16ccJk
+=10
+4b
+16eeLL
+16eeJ
+8bJ
+=11
+16eeLL
+16eeJ
+8bJ
+16eeLL
+16eeJ
+8bJ
+=12
+16eeLL
+16eeJ
+8bJ
+8eL
+8ddJ
+=13
+16eLL
+16dd
+16e
+16ddJJ
+8eL
+8eeJ
+==
+*-
+!!!ENC: Yukiko Yoden
+!!!END: 2023/06/11
