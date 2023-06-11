@@ -1,0 +1,153 @@
+!!!!SEGMENT:Kurama.krn
+!!!OTL: 鞍馬（早目）
+!!!OPR:Eiga Banso Kyokusyu,jidai-geki,kouhen
+!!!YOY:1928
+!!!ONB:Kakutou
+**kern
+*clefG2
+*k[]
+*C:
+*M2/4
+=1
+8BL
+8aa
+8bb
+8cccJ
+=2
+8eeL 8eee
+8ccJ 8ccc
+8bL 8bb
+8aJ 8aa
+=3
+8bbL
+16bbL
+16bbJJ
+8bbL
+16bbL
+16bbJJ
+=4
+8bbL
+16bbL
+16bbJJ
+8bbL
+8cccJ
+=5
+8aaL
+16aaL
+16aaJJ
+8aaL
+16aaL
+16aaJJ
+=6
+8aaL
+16aaL
+16aaJJ
+8aaL
+8bbJ
+=7
+8ccL 8ccc
+8bJ 8bb
+8aL 8aa
+8bJ 8bb
+=8
+8ccL 8ccc
+8bJ 8bb
+8aL 8aa
+8bJ 8bb
+=9
+8r
+8ggL
+8bb
+8ggJ
+=10
+8ff#XL
+8ee
+8cc
+8bJ
+=11
+8r
+16BLL
+16ccJJ
+16ccLL
+16ccJ
+8bJ
+=12
+16BLL
+16cc
+16cc
+16ccJJ
+8b
+8r
+=13
+8r
+16BLL
+16ccJJ
+16ccLL
+16ccJ
+8bJ
+=14
+16BLL
+16cc
+16cc
+16ccJJ
+8b
+8r
+=15
+8r
+8aL
+8a
+8bJ
+=16
+8cc#XL
+16cc#L
+16cc#JJ
+8cc#
+8r
+=17
+8cc#XL
+8g
+8f#X
+8eJ
+=18
+8cL
+8e
+8f#X
+8f#J
+=19
+8r
+16BLL
+16f#XJJ
+8f#L
+16BL
+16aJJ
+=20
+8aL
+16BL
+16aJJ
+8aL
+8bJ
+=21
+8bL
+8aaJ
+8bL
+8ffnJ
+=22
+8bL
+8eeJ
+8bL
+8eeJ
+=23
+8bL
+8ddJ
+16eLL
+16dd
+16e
+16ddJJ
+=24
+8eL
+8eeJ
+4r
+==
+*-
+!!!ENC: Yukiko Yoden
+!!!END: 2023/06/11

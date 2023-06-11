@@ -1,0 +1,111 @@
+!!!!SEGMENT:Zemzuto.krn
+!!!OTL:禪づと
+!!!OPR:Eiga Banso Kyokusyu,jidai-geki,kouhen
+!!!YOY:1928
+!!!ONB:Daigekitou
+**kern
+*clefG2
+*k[]
+*C:
+*M2/4
+8.eL
+16gJk
+=1
+8aL
+8eJ
+8gL
+8aJ
+=2
+8eL
+8dd
+8ee
+8ddJ
+=3
+8eeL
+16eeL
+16eeJJ
+8eeL
+8eeJ
+=4
+8ccL
+8ee
+8ff#X
+8eeJ
+=5
+8ff#XL
+16ff#L
+16ff#JJ
+8ff#
+8r
+=6
+8eeL
+8aaJ
+8bbL
+8aaJ
+=7
+8bbL
+16bbL
+16bbJJ
+8bb
+8r
+=8
+8ccL 8ccc
+16ccL 16ccc
+16ccJJ 16ccc
+8bL 8bb
+16ccL 16ccc
+16bJJ 16bb
+=9
+8aL 8aa
+16bL 16bb
+16aJJ 16aa
+8f#X 8ff#X
+8r
+=10
+8ggL
+16ggL
+16ggJJ
+8ff#XL
+16ggL
+16ff#JJ
+=11
+8eeL
+16ff#XL
+16eeJJ
+8ccL
+8bJ
+=12
+8ccL
+8eeJ
+16eeLL
+16ff#X
+16ff#
+16eeJJ
+=13
+8ccL
+8bJ
+4r
+=14
+8BL
+8bJ
+8BL
+8bJ
+=15
+8BL
+8bJ
+8BL
+8bJ
+=16
+8BL
+8ccJ
+16bLL
+16b
+16b
+16aJJ
+=17
+8fL
+8eJ
+==
+*-
+!!!ENC: Yukiko Yoden
+!!!END: 2023/06/11
