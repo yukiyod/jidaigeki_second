@@ -1,0 +1,303 @@
+!!!!SEGMENT:Tsunayakata.krn
+!!!OTL: 綱舘
+!!!OPR:Eiga Banso Kyokusyu,jidai-geki,kouhen
+!!!YOY:1928
+!!!ONB:Kengeki
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+8bbL
+16bbL
+16bbJJ
+8bb
+8r
+=2
+8bL
+16bL
+16bJJ
+8b
+8r
+=3
+8ff#L
+16ff#L
+16ff#JJ
+8ff#
+8r
+=4
+8f#L
+16f#L
+16f#JJ
+8f#
+8r
+=5
+8bbL
+16bbL
+16bbJJ
+8bb
+8r
+=6
+8ff#L
+16ff#L
+16ff#JJ
+8ff#
+8r
+=7
+8aaL
+16aaL
+16aaJJ
+8aaL
+16aaL
+16aaJJ
+=8
+8aaL
+16aaL
+16aaJJ
+8aaL
+8bbJ
+=9
+*^
+4cc	8rbb
+.	8ccc
+4b	8rbb
+.	8bb
+=10	=10
+8aL	8aaL
+16bL	16bbL
+16aJJ	16aaJJ
+8f#L	8ff#L
+8f#J	8ff#J
+=11	=11
+4g	8rff
+.	8gg
+4f#	8rff
+.	8gg
+*v	*v
+=12
+8eL 8ee
+16f#L 16ff#
+16eJJ 16ee
+8cL 8cc
+8cJ 8cc
+=13
+8ccL
+8eeJ
+16ff#LL
+16eeJ
+8ccJ
+=14
+8eeL
+16ff#L
+16eeJJ
+8cc
+8r
+=15
+8ccL
+8eeJ
+16ff#LL
+16ee
+16ff#
+16eeJJ
+=16
+8ccL
+8bJ
+4r
+=17
+8bL
+16bL
+16bJJ
+8bL
+16bL
+16bJJ
+=18
+8bL
+8f#J
+4r
+=19
+8f#L
+8f#J
+8cL
+16cL
+16cJJ
+=20
+8BL
+8BJ
+4r
+=21
+8bL
+16bL
+16bJJ
+8bL
+16bL
+16bJJ
+=22
+8bL
+8f#J
+4r
+=23
+8ccL
+8eeJ
+16ff#LL
+16ff#
+16ff#
+16eeJJ
+=24
+8bL
+8f#J
+8r
+8r
+=25!|:
+*^
+8raa	8g
+8gg	8rc
+4gg	4rc
+=26	=26
+8raa	8f#
+8ff#	8rc
+4ff#	4rc
+=27	=27
+8raa	8e
+8ee	8rc
+4ee	4rc
+=28	=28
+8raa	8c
+8cc	8rc
+4cc	4rc
+=29:|!	=29:|!
+4gg	8reee
+.	8gg
+4ff#	8rddd
+.	8ff#
+=30	=30
+4ee	8rccc
+.	8ee
+4ff#	8rccc
+.	8ff#
+=31	=31
+4gg	8reee
+.	8gg
+4ff#	8rddd
+.	8ff#
+=32	=32
+4ee	8rccc
+.	8ee
+4ff#	8rccc
+.	8ff#
+*v	*v
+=33
+*tremolo
+16cccLL
+16ccc
+16ccc
+16cccJJ
+16bbLL
+16bb
+16bb
+16bbJJ
+=34
+16ggLL
+16gg
+16gg
+16ggJJ
+16ff#LL
+16ff#
+16ff#
+16ff#JJ
+=35
+16eeLL
+16ee
+16ee
+16eeJJ
+16ff#LL
+16ff#
+16ff#
+16ff#JJ
+=36
+16ggLL
+16gg
+16gg
+16ggJJ
+16ff#LL
+16ff#
+16ff#
+16ff#JJ
+=37
+16cccLL
+16ccc
+16ccc
+16cccJJ
+16bbLL
+16bb
+16bb
+16bbJJ
+=38
+16ggLL
+16gg
+16gg
+16ggJJ
+16ff#LL
+16ff#
+16ff#
+16ff#JJ
+=39
+16eeLL
+16ee
+16ee
+16eeJJ
+16ff#LL
+16ff#
+16ff#
+16ff#JJ
+=40
+16ggLL
+16gg
+16gg
+16ggJJ
+*Xtremolo
+8ff#L
+8ff#J
+=41
+8r
+8eeL
+8ff#
+8ccJ
+=42
+8eeL
+16ff#L
+16eeJJ
+8ccL
+8ccJ
+=43
+8r
+8ee
+8ff#L
+8ccJ
+=44
+8eeL
+16ff#L
+16eeJJ
+8cc
+8r
+=45
+8ff#L
+8gg
+8bb
+8ggJ
+=46
+8ff#L
+8eeJ
+8ccL
+8bJ
+=47
+4f#
+8ff#L
+8ff#J
+=48
+8f#
+4.ff#;
+==
+*-
+!!!ENC: Yukiko Yoden
+!!!END: 2023/06/11

@@ -1,0 +1,207 @@
+!!!!SEGMENT:Kanjincho.krn
+!!!OTL:勧進帳（本手）
+!!!OPR:Eiga Banso Kyokusyu,jidai-geki,kouhen
+!!!YOY:1928
+!!!OMD: Allegro
+!!!ONB:Dairantou
+**kern
+*clefG2
+*k[]
+*C:
+*M2/4
+=1
+8BL
+8aa
+8bb
+8cccJ
+=2
+16bbLL
+16bb
+16e
+16bbJJ
+16bbLL
+16bbJJ
+8r
+=3
+16ccLL 16ccc
+16ccJ 16ccc
+8bJ 8bb
+16ccLL 16ccc
+16ccJ 16ccc
+8bJ 8bb
+=4
+16ccLL 16ccc
+16cc 16ccc
+16cc 16ccc
+16ccJJ 16ccc
+16ccLL 16ccc
+16bJJ 16bb
+8r
+=5
+16bLL 16bb
+16bJ 16bb
+8bJ 8bb
+16bLL 16bb
+16bJ 16bb
+8bbJ
+=6
+16BLL
+16bb
+16bb
+16bbJJ
+16bbLL
+16bbJJ
+8r
+=7
+16bbLL
+16bb
+16aa
+16aaJJ
+16bbLL
+16bb
+16aa
+16aaJJ
+=8
+16ff#XLL
+16ff#
+16ff#
+16ff#JJ
+16ff#LL
+16ff#
+16ff#
+16ff#JJ
+=9
+16eeLL
+16ee
+16ff#X
+16ff#JJ
+16eeLL
+16ee
+16ff#
+16ff#JJ
+=10
+16eeLL
+16ee
+16B
+16ccJJ
+16ccLL
+16bJJ
+8r
+=11
+16eeLL
+16ee
+16ff#X
+16ff#JJ
+16eeLL
+16ee
+16ff#
+16ff#JJ
+=12
+16eeLL
+16ee
+16B
+16ccJJ
+16ccLL
+16bJJ
+8r
+=13
+8eeL
+16ccL
+16ccJJ
+16ccLL
+16cc
+16cc
+16ccJJ
+=14
+8bL
+16aL
+16aJJ
+16aLL
+16a
+16a
+16aJJ
+=15
+8bL
+16aL
+16aJJ
+8bL
+16aL
+16aJJ
+=16
+8bL
+16aL
+16aJJ
+8bL
+16aL
+16aJJ
+=17
+16BLL
+16b
+(16b
+16aJJ)
+16BLL
+16b
+(16b
+16aJJ)
+=18
+16BLL
+16b
+16b
+16bJJ
+16bLL
+16bJJ
+8r
+=19
+16BLL
+16b
+(16b
+16aJJ)
+16BLL
+16b
+(16b
+16aJJ)
+=20
+16BLL
+16b
+16b
+16bJJ
+16bLL
+16bJJ
+8r
+=21
+16BLL
+16e
+16e
+16eJJ
+16eLL
+16e
+16e
+16eJJ
+=22
+16eLL
+16e
+16e
+16eJJ
+16eLL
+16e
+16e
+16eJJ
+=23
+16dLL
+16d
+16e
+16dJJ
+8eL
+16fL
+16fJJ
+=24
+16fLL
+16e
+16e
+16cJJ
+8B
+8r
+==
+*-
+!!!ENC: Yukiko Yoden
+!!!END: 2023/06/11
