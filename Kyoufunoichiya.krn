@@ -1,0 +1,684 @@
+!!!!SEGMENT:Kyoufunoichiya.krn
+!!!OTL:恐怖の一夜（悪夢）
+!!!OPR:Eiga Banso Kyokusyu,jidai-geki,kouhen
+!!!YOY:1928
+!!!ONB:Kaii
+**kern	**kern	**dynam
+*part1	*part1	*part1
+*staff2	*staff1	*
+*I"Part 1	*	*
+*clefG2	*clefG2	*
+*k[b-]	*k[b-]	*
+*F:	*F:	*
+*M4/4	*M4/4	*
+*met(c)	*met(c)	*
+=1	=1	=1
+*tremolo	*	*
+!	!LO:TX:a:B:t=Andante misterioso	!
+16A 16fLL	2r	.
+16A 16f	.	.
+16A 16f	.	.
+16A 16f	.	.
+16A 16f	.	.
+16A 16f	.	.
+16A 16f	.	.
+16A 16fJJ	.	.
+*	*tremolo	*
+16A 16fLL	16ALL	.
+16A 16f	16A	.
+16A 16f	16A	.
+16A 16f	16A	.
+16A 16f	16A	.
+16A 16f	16A	.
+16A 16f	16A	.
+16A 16fJJ	16AJJ	.
+=2	=2	=2
+16A 16fLL	16cLL	.
+16A 16f	16c	.
+16A 16f	16c	.
+16A 16f	16c	.
+16A 16f	16c	.
+16A 16f	16c	.
+16A 16f	16c	.
+16A 16fJJ	16cJJ	.
+16A 16fLL	16fLL	.
+16A 16f	16f	.
+16A 16f	16f	.
+16A 16f	16f	.
+16A 16f	16f	.
+16A 16f	16f	.
+16A 16f	16f	.
+16A 16fJJ	16fJJ	.
+=3	=3	=3
+16A 16fLL	16aLL	<
+16A 16f	16a	.
+16A 16f	16a	.
+16A 16f	16aJJ	.
+16A 16f	16ccLL	.
+16A 16f	16cc	.
+16A 16f	16cc	.
+16A 16fJJ	16ccJJ	.
+16A 16fLL	16ffLL	.
+16A 16f	16ff	.
+16A 16f	16ff	.
+16A 16f	16ffJJ	.
+16A 16f	16aaLL	.
+16A 16f	16aa	.
+16A 16f	16aa	.
+16A 16fJJ	16aaJJ	.
+=4	=4	=4
+!	!	!LO:DY:a
+4.A	4.cc 4.ccc	[ f
+8e 8cc	8cc 8gg	.
+4e 4cc	4cc 4gg	.
+4e 4cc	4cc 4gg	.
+=5	=5	=5
+4.f 4.cc	4.cc 4.aa	.
+8f 8cc	8a 8ff	.
+4f 4cc	4a 4ff	.
+4r	4r	.
+=6	=6	=6
+4.c 4.e	4.cc 4.ccc	p
+8c 8e	8gg	.
+4c 4e	4gg	.
+4c 4e	4gg	.
+=7	=7	=7
+4.c 4.f	4.aa	.
+8c 8f	8ff	.
+4c 4f	4ff	.
+4r	4r	.
+=8	=8	=8
+16dLL	2r	.
+16d	.	.
+16d	.	.
+16d	.	.
+16d	.	.
+16d	.	.
+16d	.	.
+16dJJ	.	.
+16d 16fLL	16fLL	.
+16d 16f	16f	.
+16d 16f	16f	.
+16d 16f	16f	.
+16d 16f	16f	.
+16d 16f	16f	.
+16d 16f	16f	.
+16d 16fJJ	16fJJ	.
+=9	=9	=9
+16A 16dLL	16ALL	.
+16A 16d	16A	.
+16A 16d	16A	.
+16A 16d	16A	.
+16A 16d	16A	.
+16A 16d	16A	.
+16A 16d	16A	.
+16A 16dJJ	16AJJ	.
+16A 16dLL	16dLL	.
+16A 16d	16d	.
+16A 16d	16d	.
+16A 16d	16d	.
+16A 16d	16d	.
+16A 16d	16d	.
+16A 16d	16d	.
+16A 16dJJ	16dJJ	.
+=10	=10	=10
+!	!	!LO:DY:a
+16A 16dLL	16fLL	<
+16A 16d	16f	.
+16A 16d	16f	.
+16A 16d	16fJJ	.
+16A 16d	16aLL	.
+16A 16d	16a	.
+16A 16d	16a	.
+16A 16dJJ	16aJJ	.
+16A 16dLL	16ddLL	[[
+16A 16d	16dd	.
+16A 16d	16dd	.
+16A 16d	16ddJJ	.
+16A 16d	16ffLL	.
+16A 16d	16ff	.
+16A 16d	16ff	.
+16A 16dJJ	16ffJJ	.
+*Xtremolo	*	*
+=11	=11	=11
+!	!	!LO:DY:a
+4.A	4.a 4.aa	f
+8e 8a	8a 8ee	.
+4e 4a	4a 4ee	.
+4e 4a	4a 4ee	.
+=12	=12	=12
+4.d 4.a	4.a 4.ff	.
+8d 8a	8f 8dd	.
+4d 4a	4f 4dd	.
+4r	4r	.
+=13	=13	=13
+4.f 4.a	4.ff	.
+8f 8a	8dd	.
+4f 4a	4dd	.
+4g 4bn	4gg	.
+=14	=14	=14
+4g 4cc	32cc 32cccLLL	pp
+.	32cc 32ccc	.
+.	32cc 32ccc	.
+.	32cc 32ccc	.
+.	32cc 32ccc	.
+.	32cc 32ccc	.
+.	32cc 32ccc	.
+.	32cc 32ccc	.
+4r	32cc 32ccc	.
+.	32cc 32ccc	.
+.	32cc 32ccc	.
+.	32cc 32ccc	.
+.	32cc 32ccc	.
+.	32cc 32ccc	.
+.	32cc 32ccc	.
+.	32cc 32ccc	.
+4r	32cc 32ccc	.
+.	32cc 32ccc	.
+.	32cc 32ccc	.
+.	32cc 32ccc	.
+.	32cc 32ccc	.
+.	32cc 32ccc	.
+.	32cc 32ccc	.
+.	32cc 32ccc	.
+(16b-LL	32cc 32ccc	.
+.	32cc 32ccc	.
+16a-X	32cc 32ccc	.
+.	32cc 32ccc	.
+16b-	32cc 32ccc	.
+.	32cc 32ccc	.
+16a-JJ	32cc 32ccc	.
+.	32cc 32cccJJJ	.
+=15	=15	=15
+8g)	32cc 32cccLLL	.
+.	32cc 32ccc	.
+.	32cc 32ccc	.
+.	32cc 32ccc	.
+8r	32cc 32ccc	.
+.	32cc 32ccc	.
+.	32cc 32ccc	.
+.	32cc 32ccc	.
+(16a-XLL	32cc 32ccc	.
+.	32cc 32ccc	.
+16g	32cc 32ccc	.
+.	32cc 32ccc	.
+16a-	32cc 32ccc	.
+.	32cc 32ccc	.
+16gJJ)	32cc 32ccc	.
+.	32cc 32ccc	.
+8f	32cc 32ccc	.
+.	32cc 32ccc	.
+.	32cc 32ccc	.
+.	32cc 32ccc	.
+8r	32cc 32ccc	.
+.	32cc 32ccc	.
+.	32cc 32ccc	.
+.	32cc 32ccc	.
+(16gLL	32cc 32ccc	.
+.	32cc 32ccc	.
+16f	32cc 32ccc	.
+.	32cc 32ccc	.
+16g	32cc 32ccc	.
+.	32cc 32ccc	.
+16fJJ	32cc 32ccc	.
+.	32cc 32cccJJJ	.
+=16	=16	=16
+8e)	32cc 32cccLLL	.
+.	32cc 32ccc	.
+.	32cc 32ccc	.
+.	32cc 32ccc	.
+8r	32cc 32ccc	.
+.	32cc 32ccc	.
+.	32cc 32ccc	.
+.	32cc 32ccc	.
+8cc	32cc 32ccc	.
+.	32cc 32ccc	.
+.	32cc 32ccc	.
+.	32cc 32ccc	.
+8r	32cc 32ccc	.
+.	32cc 32ccc	.
+.	32cc 32ccc	.
+.	32cc 32ccc	.
+8c	32cc 32ccc	.
+.	32cc 32ccc	.
+.	32cc 32ccc	.
+.	32cc 32ccc	.
+8r	32cc 32ccc	.
+.	32cc 32ccc	.
+.	32cc 32ccc	.
+.	32cc 32ccc	.
+(16b-LL	32cc 32ccc	.
+.	32cc 32ccc	.
+16a-X	32cc 32ccc	.
+.	32cc 32ccc	.
+16b-	32cc 32ccc	.
+.	32cc 32ccc	.
+16a-JJ	32cc 32ccc	.
+.	32cc 32cccJJJ	.
+=17	=17	=17
+8g)	32cc 32cccLLL	.
+.	32cc 32ccc	.
+.	32cc 32ccc	.
+.	32cc 32ccc	.
+8r	32cc 32ccc	.
+.	32cc 32ccc	.
+.	32cc 32ccc	.
+.	32cc 32ccc	.
+(16a-XLL	32cc 32ccc	.
+.	32cc 32ccc	.
+16g	32cc 32ccc	.
+.	32cc 32ccc	.
+16a-	32cc 32ccc	.
+.	32cc 32ccc	.
+16gJJ	32cc 32ccc	.
+.	32cc 32ccc	.
+8f)	32cc 32ccc	.
+.	32cc 32ccc	.
+.	32cc 32ccc	.
+.	32cc 32ccc	.
+8r	32cc 32ccc	.
+.	32cc 32ccc	.
+.	32cc 32ccc	.
+.	32cc 32ccc	.
+(16gLL	32cc 32ccc	.
+.	32cc 32ccc	.
+16f	32cc 32ccc	.
+.	32cc 32ccc	.
+16g	32cc 32ccc	.
+.	32cc 32ccc	.
+16fJJ	32cc 32ccc	.
+.	32cc 32cccJJJ	.
+=18	=18	=18
+8e)	32cc 32cccLLL	.
+.	32cc 32ccc	.
+.	32cc 32ccc	.
+.	32cc 32ccc	.
+8r	32cc 32ccc	.
+.	32cc 32ccc	.
+.	32cc 32ccc	.
+.	32cc 32ccc	.
+8cc	32cc 32ccc	.
+.	32cc 32ccc	.
+.	32cc 32ccc	.
+.	32cc 32ccc	.
+8r	32cc 32ccc	.
+.	32cc 32ccc	.
+.	32cc 32ccc	.
+.	32cc 32ccc	.
+8c	32cc 32ccc	.
+.	32cc 32ccc	.
+.	32cc 32ccc	.
+.	32cc 32ccc	.
+8r	32cc 32ccc	.
+.	32cc 32ccc	.
+.	32cc 32ccc	.
+.	32cc 32ccc	.
+8a-X	32cc 32ccc	.
+.	32cc 32ccc	.
+.	32cc 32ccc	.
+.	32cc 32ccc	.
+8r	32cc 32ccc	.
+.	32cc 32ccc	.
+.	32cc 32ccc	.
+.	32cc 32cccJJJ	.
+=19	=19	=19
+8g	32cc 32cccLLL	.
+.	32cc 32ccc	.
+.	32cc 32ccc	.
+.	32cc 32ccc	.
+8r	32cc 32ccc	.
+.	32cc 32ccc	.
+.	32cc 32ccc	.
+.	32cc 32ccc	.
+8cc	32cc 32ccc	.
+.	32cc 32ccc	.
+.	32cc 32ccc	.
+.	32cc 32ccc	.
+8r	32cc 32ccc	.
+.	32cc 32ccc	.
+.	32cc 32ccc	.
+.	32cc 32ccc	.
+8A	32cc 32ccc	.
+.	32cc 32ccc	.
+.	32cc 32ccc	.
+.	32cc 32ccc	.
+8r	32cc 32ccc	.
+.	32cc 32ccc	.
+.	32cc 32ccc	.
+.	32cc 32ccc	.
+8a-X	32cc 32ccc	.
+.	32cc 32ccc	.
+.	32cc 32ccc	.
+.	32cc 32ccc	.
+8r	32cc 32ccc	.
+.	32cc 32ccc	.
+.	32cc 32ccc	.
+.	32cc 32cccJJJ	.
+=20	=20	=20
+8g	32cc 32cccLLL	.
+.	32cc 32ccc	.
+.	32cc 32ccc	.
+.	32cc 32ccc	.
+8r	32cc 32ccc	.
+.	32cc 32ccc	.
+.	32cc 32ccc	.
+.	32cc 32ccc	.
+4r	32cc 32ccc	.
+.	32cc 32ccc	.
+.	32cc 32ccc	.
+.	32cc 32ccc	.
+.	32cc 32ccc	.
+.	32cc 32ccc	.
+.	32cc 32ccc	.
+.	32cc 32ccc	.
+8c	32cc 32ccc	.
+.	32cc 32ccc	.
+.	32cc 32ccc	.
+.	32cc 32ccc	.
+8r	32cc 32ccc	.
+.	32cc 32ccc	.
+.	32cc 32ccc	.
+.	32cc 32ccc	.
+4r	32cc 32ccc	.
+.	32cc 32ccc	.
+.	32cc 32ccc	.
+.	32cc 32ccc	.
+.	32cc 32ccc	.
+.	32cc 32ccc	.
+.	32cc 32ccc	.
+.	32cc 32cccJJJ	.
+=21	=21	=21
+8c	32cc 32cccLLL	.
+.	32cc 32ccc	.
+.	32cc 32ccc	.
+.	32cc 32ccc	.
+8r	32cc 32ccc	.
+.	32cc 32ccc	.
+.	32cc 32ccc	.
+.	32cc 32ccc	.
+4r	32cc 32ccc	.
+.	32cc 32ccc	.
+.	32cc 32ccc	.
+.	32cc 32ccc	.
+.	32cc 32ccc	.
+.	32cc 32ccc	.
+.	32cc 32ccc	.
+.	32cc 32cccJJJ	.
+(4A	32cc 32aaLLL	<
+.	32cc 32aa	.
+.	32cc 32aa	.
+.	32cc 32aa	.
+.	32cc 32aa	.
+.	32cc 32aa	.
+.	32cc 32aa	.
+.	32cc 32aa	.
+4c)	32cc 32aa	.
+.	32cc 32aa	.
+.	32cc 32aa	.
+.	32cc 32aa	.
+.	32cc 32aa	.
+.	32cc 32aa	.
+.	32cc 32aa	.
+.	32cc 32aaJJJ	.
+=22	=22	=22
+!	!	!LO:DY:a
+(2f	32cc 32aaLLL	[ >
+.	32cc 32aa	.
+.	32cc 32aa	.
+.	32cc 32aa	.
+.	32cc 32aa	.
+.	32cc 32aa	.
+.	32cc 32aa	.
+.	32cc 32aa	.
+.	32cc 32aa	.
+.	32cc 32aa	.
+.	32cc 32aa	.
+.	32cc 32aa	.
+.	32cc 32aa	.
+.	32cc 32aa	.
+.	32cc 32aa	.
+.	32cc 32aa	.
+4e	32cc 32aa	.
+.	32cc 32aa	.
+.	32cc 32aa	.
+.	32cc 32aa	.
+.	32cc 32aa	.
+.	32cc 32aa	.
+.	32cc 32aa	.
+.	32cc 32aa	.
+4d)	32cc 32aa	]]
+.	32cc 32aa	.
+.	32cc 32aa	.
+.	32cc 32aa	.
+.	32cc 32aa	.
+.	32cc 32aa	.
+.	32cc 32aa	.
+.	32cc 32aaJJJ	.
+=23	=23	=23
+(2e	32cc 32bb-LLL	.
+.	32cc 32bb-	.
+.	32cc 32bb-	.
+.	32cc 32bb-	.
+.	32cc 32bb-	.
+.	32cc 32bb-	.
+.	32cc 32bb-	.
+.	32cc 32bb-	.
+.	32cc 32bb-	.
+.	32cc 32bb-	.
+.	32cc 32bb-	.
+.	32cc 32bb-	.
+.	32cc 32bb-	.
+.	32cc 32bb-	.
+.	32cc 32bb-	.
+.	32cc 32bb-	.
+!	!	!LO:DY:a
+4G	32cc 32bb-	<
+.	32cc 32bb-	.
+.	32cc 32bb-	.
+.	32cc 32bb-	.
+.	32cc 32bb-	.
+.	32cc 32bb-	.
+.	32cc 32bb-	.
+.	32cc 32bb-	.
+4B-)	32cc 32bb-	[[
+.	32cc 32bb-	.
+.	32cc 32bb-	.
+.	32cc 32bb-	.
+.	32cc 32bb-	.
+.	32cc 32bb-	.
+.	32cc 32bb-	.
+.	32cc 32bb-JJJ	.
+=24	=24	=24
+!	!	!LO:DY:a
+(2e	32cc 32bb-LLL	>
+.	32cc 32bb-	.
+.	32cc 32bb-	.
+.	32cc 32bb-	.
+.	32cc 32bb-	.
+.	32cc 32bb-	.
+.	32cc 32bb-	.
+.	32cc 32bb-	.
+.	32cc 32bb-	.
+.	32cc 32bb-	.
+.	32cc 32bb-	.
+.	32cc 32bb-	.
+.	32cc 32bb-	.
+.	32cc 32bb-	.
+.	32cc 32bb-	.
+.	32cc 32bb-	.
+4d	32cc 32bb-	.
+.	32cc 32bb-	.
+.	32cc 32bb-	.
+.	32cc 32bb-	.
+.	32cc 32bb-	.
+.	32cc 32bb-	.
+.	32cc 32bb-	.
+.	32cc 32bb-	.
+4B-)	32cc 32bb-	]
+.	32cc 32bb-	.
+.	32cc 32bb-	.
+.	32cc 32bb-	.
+.	32cc 32bb-	.
+.	32cc 32bb-	.
+.	32cc 32bb-	.
+.	32cc 32bb-JJJ	.
+=25	=25	=25
+!	!	!LO:DY:a
+(2c	32cc 32aaLLL	<
+.	32cc 32aa	.
+.	32cc 32aa	.
+.	32cc 32aa	.
+.	32cc 32aa	.
+.	32cc 32aa	.
+.	32cc 32aa	.
+.	32cc 32aa	.
+.	32cc 32aa	.
+.	32cc 32aa	.
+.	32cc 32aa	.
+.	32cc 32aa	.
+.	32cc 32aa	.
+.	32cc 32aa	.
+.	32cc 32aa	.
+.	32cc 32aa	.
+4A	32cc 32aa	.
+.	32cc 32aa	.
+.	32cc 32aa	.
+.	32cc 32aa	.
+.	32cc 32aa	.
+.	32cc 32aa	.
+.	32cc 32aa	.
+.	32cc 32aa	.
+4c)	32cc 32aa	[
+.	32cc 32aa	.
+.	32cc 32aa	.
+.	32cc 32aa	.
+.	32cc 32aa	.
+.	32cc 32aa	.
+.	32cc 32aa	.
+.	32cc 32aaJJJ	.
+=26	=26	=26
+(2cc	32cc 32aaLLL	.
+.	32cc 32aa	.
+.	32cc 32aa	.
+.	32cc 32aa	.
+.	32cc 32aa	.
+.	32cc 32aa	.
+.	32cc 32aa	.
+.	32cc 32aa	.
+.	32cc 32aa	.
+.	32cc 32aa	.
+.	32cc 32aa	.
+.	32cc 32aa	.
+.	32cc 32aa	.
+.	32cc 32aa	.
+.	32cc 32aa	.
+.	32cc 32aa	.
+4b-	32cc 32aa	.
+.	32cc 32aa	.
+.	32cc 32aa	.
+.	32cc 32aa	.
+.	32cc 32aa	.
+.	32cc 32aa	.
+.	32cc 32aa	.
+.	32cc 32aa	.
+4a)	32cc 32aa	.
+.	32cc 32aa	.
+.	32cc 32aa	.
+.	32cc 32aa	.
+.	32cc 32aa	.
+.	32cc 32aa	.
+.	32cc 32aa	.
+.	32cc 32aaJJJ	.
+=27	=27	=27
+(2g	32b- 32ggLLL	.
+.	32b- 32gg	.
+.	32b- 32gg	.
+.	32b- 32gg	.
+.	32b- 32gg	.
+.	32b- 32gg	.
+.	32b- 32gg	.
+.	32b- 32gg	.
+.	32b- 32gg	.
+.	32b- 32gg	.
+.	32b- 32gg	.
+.	32b- 32gg	.
+.	32b- 32gg	.
+.	32b- 32gg	.
+.	32b- 32gg	.
+.	32b- 32gg	.
+4f	32b- 32gg	.
+.	32b- 32gg	.
+.	32b- 32gg	.
+.	32b- 32gg	.
+.	32b- 32gg	.
+.	32b- 32gg	.
+.	32b- 32gg	.
+.	32b- 32gg	.
+4d)	32b- 32gg	.
+.	32b- 32gg	.
+.	32b- 32gg	.
+.	32b- 32gg	.
+.	32b- 32gg	.
+.	32b- 32gg	.
+.	32b- 32gg	.
+.	32b- 32ggJJJ	.
+=28	=28	=28
+(2c	32cc 32aaLLL	.
+.	32cc 32aa	.
+.	32cc 32aa	.
+.	32cc 32aa	.
+.	32cc 32aa	.
+.	32cc 32aa	.
+.	32cc 32aa	.
+.	32cc 32aa	.
+.	32cc 32aa	.
+.	32cc 32aa	.
+.	32cc 32aa	.
+.	32cc 32aa	.
+.	32cc 32aa	.
+.	32cc 32aa	.
+.	32cc 32aa	.
+.	32cc 32aaJJJ	.
+4B-	32b- 32ggLLL	.
+.	32b- 32gg	.
+.	32b- 32gg	.
+.	32b- 32gg	.
+.	32b- 32gg	.
+.	32b- 32gg	.
+.	32b- 32gg	.
+.	32b- 32gg	.
+4G)	32b- 32gg	.
+.	32b- 32gg	.
+.	32b- 32gg	.
+.	32b- 32gg	.
+.	32b- 32gg	.
+.	32b- 32gg	.
+.	32b- 32gg	.
+.	32b- 32ggJJJ	.
+*	*Xtremolo	*
+=29	=29	=29
+[2A [2a	8aL 8ff	.
+.	8ff'	.
+.	8cc'	.
+.	8a'J	.
+8AL] 8a]	8f	.
+8f'	8r	.
+8c'	4r	.
+8A'J	.	.
+=30	=30	=30
+8f'	1r	.
+8r	.	.
+4r	.	.
+8f'	.	pp
+8r	.	.
+4r	.	.
+=31	=31	=31
+8f'	1r;	.
+8r	.	.
+4r	.	.
+2r;	.	.
+==	==	==
+*-	*-	*-
+!!!system-decoration: {(s1,s2)}
+!!!ENC: Yukiko Yoden
+!!!END: 2023/06/11
